@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1591790048 source:d:\kunwar\accessing\supermarket billing system\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<string>
+	<fstream>
+	<cstdlib>
+
