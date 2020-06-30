@@ -1,0 +1,24 @@
+***** *SUPER MARKET* *****
+      Billing System 
+
+     CUSTOMER'S BILL
+
+Customer name :- abc xyz        Phn No. : 7373828291
+ 
+1. Code: 123 Name: kasj Quantity: 334 Price: 1 Total: 334
+
+GRAND TOTAL AMOUNT :- 334
+
+***** *SUPER MARKET* *****
+      Billing System 
+
+     CUSTOMER'S BILL
+
+Customer name :- abc xyz        Phn No. : 232456778
+ 
+1. Code: 123 Name: rice Quantity: 10 Price: 23 Total: 230
+ 
+2. Code: 156 Name: sugar Quantity: 2 Price: 8 Total: 16
+
+GRAND TOTAL AMOUNT :- 246
+
